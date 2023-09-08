@@ -41,4 +41,4 @@ Contributions are welcome! Open issues or create pull requests on [GitHub](https
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-Thank you for visiting the Satili Gym website. Contact us [here](https://www.satiligym.com/contact) with questions or feedback.
+Thank you for visiting the Satili Gym website. Contact me here with questions or feedback.
